@@ -4,3 +4,4 @@ this directory has scripts that do the following:
 3. twofiles - displays content of two files
 4. lastlines - displays last 10 lines of etc/password
 5. firstlines - displays the first 10 lines of /etc/passwd
+6. thirdline - displays the third line of the file iacta
